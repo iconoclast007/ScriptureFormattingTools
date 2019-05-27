@@ -12,8 +12,8 @@ PNIP - Proper Nouns in passage
 
 # Supporting Tools
 
-# Sample Output (for Esther 10) -- cut and past directly into Latex source files and then
-use your favorite Latex Tool
+# Sample Output (for Esther 10)
+Cut and past directly into Latex source files and then use your favorite Latex Tool
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 Chapter with Latex format
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
