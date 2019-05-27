@@ -2,7 +2,8 @@
 Code uses Python (Jupyter) to reformat KJV scripture into Latex source code: generates indexes and local concordance, word counts, etc.
 
 ## Indexes currently included
-Code can certainly be added to 
+Code can certainly be added to:
+
 AWIP - All words in passage
 
 NWIV - Number of Words in Verse
