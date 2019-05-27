@@ -1,5 +1,5 @@
 # ScriptureFormattingTools
-Did you ever want a Bible with wider margins to add notes? Did you ever want the text in different clors? Latex provides ways to do all that. This  code uses Python (Jupyter) to reformat KJV scripture into Latex source code: generates indexes and local concordance, word counts, etc. Feedback, improvements, comments welcome to KDAatwork@gmail.com . There most probably are more eficient ways to accomplish the task included, so add your input!
+Did you ever want a Bible with wider margins to add notes? Did you ever want the text in different colors? Latex provides ways to do all that. This  code uses Python (Jupyter) to reformat KJV scripture into Latex source code: generates indexes and local concordance, word counts, etc.  You could then use other latex packeages to do things like highlight specific text, add margin notes, add footnotes, etc. Feedback, improvements, comments welcome to KDAatwork@gmail.com . There most probably are more eficient ways to accomplish the task included, so add your input!
 
 ## Indexes currently included
 Code can certainly be added to:
