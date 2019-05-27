@@ -1,5 +1,6 @@
 # ScriptureFormattingTools
 Code uses Python (Jupyter) to reformat KJV scripture into Latex source code: generates indexes and local concordance, word counts, etc.
+Feedback, improvements, comments welcome to KDAatwork@gmail.com 
 
 ## Indexes currently included
 Code can certainly be added to:
@@ -13,7 +14,8 @@ PNIP - Proper Nouns in passage
 # Supporting Tools
 
 # Sample Output (for Esther 10)
-Cut and past directly into Latex source files and then use your favorite Latex Tool
+Cut and past directly into Latex source files and then use your favorite Latex Tool:
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 Chapter with Latex format
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
