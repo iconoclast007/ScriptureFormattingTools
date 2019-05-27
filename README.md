@@ -5,10 +5,11 @@ Code uses Python (Jupyter) to reformat KJV scripture into Latex source code: gen
 Code can certainly be added to 
 AWIP - All words in passage
 
-NWIV - NUmber of Words in Verse
+NWIV - Number of Words in Verse
 
 PNIP - Proper Nouns in passage
 
+# Supporting Tools
 
 # Sample Output (for Esther 10) -- cut and past directly into Latex source files and then
 use your favorite Latex Tool
